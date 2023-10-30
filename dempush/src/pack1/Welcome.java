@@ -6,6 +6,7 @@ public class Welcome {
 		System.out.println("Welcome to GIT HUB");// TODO Auto-generated method stub
         System.out.println("We learn to push this code to git hub");
         System.out.println("HI");
+		System.out.println("PuLL this to local system");
 		
 	}
 
